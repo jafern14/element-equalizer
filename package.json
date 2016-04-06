@@ -1,0 +1,37 @@
+{
+  "name": "element-equalizer",
+  "version": "0.1.0",
+  "description": "A jQuery plugin to equalize the height of DOM elements",
+  "main": "src/jquery-element-equalizer.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jafern14/element-equalizer.git"
+  },
+  "keywords": [
+    "equalizer",
+    "jquery"
+  ],
+  "author": "Juan Fernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jafern14/element-equalizer/issues"
+  },
+  "homepage": "https://github.com/jafern14/element-equalizer#readme",
+  "engines": {
+      "node": ">=0.12.0"
+  },
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.1",
+    "gulp-babel": "^6.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^0.13.2",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.5.0",
+    "gulp-uglify": "^1.1.0"
+  }
+}
