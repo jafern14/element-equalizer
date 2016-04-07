@@ -1,7 +1,7 @@
 {
   "name": "element-equalizer",
   "description": "A jQuery plugin to equalize the height of DOM elements",
-  "main": "dist/jquery-element-equalizer.min.js dist/jquery-element-equalizer-min.js.map",
+  "main": ["dist/jquery-element-equalizer.min.js", "dist/jquery-element-equalizer.min.js.map"],
   "authors": [
     "Juan Fernandez"
   ],
