@@ -1,3 +1,12 @@
+/*!
+ * jQuery scrollwatch 0.1.0
+ * https://github.com/jafern14/element-equalizer
+ *
+ * Copyright (c) 2016 Juan Fernandez
+ *
+ * Released under the MIT license:
+ * https://github.com/jafern14/element-equalizer/blob/master/LICENSE
+ */
 (function ($) {
 
     var pluginName = 'equalizer',
